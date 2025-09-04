@@ -69,3 +69,5 @@ Input Image	Model Prediction
 🤝 Contributing
 
 Feel free to fork this repository, open issues, and submit pull requests for improvements!
+## Model Weights
+The pre-trained model weights can be downloaded from [this link](https://drive.google.com/drive/folders/1WDa0B7H1kaWSxtIyc9GKdgCXnCQ212yu?usp=sharing)
